@@ -1,1 +1,2 @@
-# amazon
+<h1>Hello family</h1>
+<script src="/xjs/_/js/k=xjs.s.en_GB.IMSAS2GDJaM.O/ck=xjs.s.7gkv80AQeAY.L.W.O/am=QEQABAAAAAAAAAAAAAAQgAQQAAAAYAwAAAAAAAAgCEBAYrAgAABgyLwEDAAAIAAAPgICfhgoIAAIAAAAmMC-AID_JgDgEtiEAQAAAAAAIAAvgYxSAxIFAQQAAAAglsULAEAIAAE/d=1/exm=DhPYme,NzU6V,aa,abd,async,cdos,cr,csi,d,dpf,dvl,fEVMic,hsm,ifl,jsa,mUpTid,mu,sb_wiz,sf,xz7cCd/ed=1/dg=2/rs=ACT90oF6sUCGn2kzPGYZQNLBwWM84PMTKw/m=LtQuz,VsqSCc?xjs=s2" nonce="ESBATF6lMRkGvSkIObjsnA==" async=""></script>
